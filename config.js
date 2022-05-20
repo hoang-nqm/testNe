@@ -1,17 +1,17 @@
 const CONFIG = {
-    titleWeb: "Test thử nha",
-    introTitle: 'Phương Thảo',
-    introDesc: `Ngày mai em có rảnh có chán thì alo là anh có mặt đi chơi lummm`,
+    titleWeb: "Thương tuỵt zời",
+    introTitle: 'Thương ơii',
+    introDesc: `Thương thương bé lắm đúm hong ???`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đang rất buồn chán vào ngày cúi tuần 🥰',
-    desc: 'Phải chăng em rất muốn đi chơi ???? ',
+    title: 'Phải chăng Thương tính mua đồ cho bé',
+    desc: 'Thương tính đưa bé đi spa, ngại qué nhưng mua đồ là được gòi ',
     btnYes: 'Đúm lummm ',
     btnNo: 'Không nha :3',
-    question: 'Trong tuần có bao nhiêu ngày sao cuối tuần lại không đi chơi',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Đi thì đi không đi thì đi <33333333',
-    mess: 'Anh biết mà đi thoiiiii 😘😘',
-    messDesc: 'Tối mai 5h, anh qua đón đi chơi nha.',
+    question: 'Sao Thương thương bé quá zạaaaa',
+    btnReply: 'Gửi cho bé <3',
+    reply: 'Tại vì bé dễ thương lắm á',
+    mess: 'Em biết mà yêu Thương lắm 😘😘',
+    messDesc: 'Mua thì mua ít thôi nha Thương',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/messages/t/100009867369026' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100009867369026
+    messLink: 'https://shopee.vn/' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100009867369026
 }
